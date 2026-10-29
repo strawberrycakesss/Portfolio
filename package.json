@@ -1,0 +1,10 @@
+{
+  "name": "jamaica-portfolio",
+  "version": "1.0.0",
+  "description": "Jamaica Gaces Personal IT & UI/UX Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve . -l 8000",
+    "start": "npx -y serve . -l 8000"
+  }
+}
